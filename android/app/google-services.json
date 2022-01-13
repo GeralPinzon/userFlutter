@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491939160212",
+    "project_id": "usuarios-79b70",
+    "storage_bucket": "usuarios-79b70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491939160212:android:6b86375146195c22049481",
+        "android_client_info": {
+          "package_name": "com.example.practicaflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491939160212-pufit3oaiktrsdgqk25n6qns190l262a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUPv17Ht6uot-8ljvKLnknVd09rCOghhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491939160212-pufit3oaiktrsdgqk25n6qns190l262a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
